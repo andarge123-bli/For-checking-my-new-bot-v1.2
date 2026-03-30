@@ -1,3 +1,4 @@
 pyTelegramBotAPI
 flask
 google-genai
+gunicorn==23.0.0
