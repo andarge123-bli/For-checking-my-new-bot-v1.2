@@ -1,6 +1,5 @@
 """
 MTU University File-Sharing Telegram Bot — v3.0
-
 New in v3.0
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 NEW FEATURES
